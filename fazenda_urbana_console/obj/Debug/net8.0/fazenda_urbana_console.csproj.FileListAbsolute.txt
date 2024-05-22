@@ -63,3 +63,4 @@ C:\dev\workspace\vscode\fazenda_urbana_console\obj\Debug\net8.0\refint\fazenda_u
 C:\dev\workspace\vscode\fazenda_urbana_console\obj\Debug\net8.0\fazenda_urbana_console.pdb
 C:\dev\workspace\vscode\fazenda_urbana_console\obj\Debug\net8.0\fazenda_urbana_console.genruntimeconfig.cache
 C:\dev\workspace\vscode\fazenda_urbana_console\obj\Debug\net8.0\ref\fazenda_urbana_console.dll
+C:\dev\workspace\vscode\fazenda_urbana_console\obj\Debug\net8.0\fazenda_urbana_console.sourcelink.json

@@ -12,3 +12,4 @@ C:\dev\workspace\vscode\fazenda_urbana_crud_dll\obj\Debug\net8.0\refint\fazenda_
 C:\dev\workspace\vscode\fazenda_urbana_crud_dll\obj\Debug\net8.0\fazenda_urbana_crud_dll.pdb
 C:\dev\workspace\vscode\fazenda_urbana_crud_dll\obj\Debug\net8.0\fazenda_urbana_crud_dll.genruntimeconfig.cache
 C:\dev\workspace\vscode\fazenda_urbana_crud_dll\obj\Debug\net8.0\ref\fazenda_urbana_crud_dll.dll
+C:\dev\workspace\vscode\fazenda_urbana_crud_dll\obj\Debug\net8.0\fazenda_urbana_crud_dll.sourcelink.json

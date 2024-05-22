@@ -2,19 +2,21 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using fazenda_urbana_crud_dll.Context;
+using fazenda_urbana_crud_dll.Models.Db;
 
 namespace fazenda_urbana_crud_dll.Controllers
 {
     public interface IController
     {
-        public abstract bool Create(object o);
+        bool Create(object o);
 
-        public abstract bool GetById(int id);
+        bool GetById(int id);
 
-        public abstract bool GetAll();
+        bool GetAll();
 
-        public abstract bool Update(int id, object o);
+        bool Update(int id, object o);
 
-        public abstract bool Delete(int id);
+        bool Delete(int id);
     }
 }

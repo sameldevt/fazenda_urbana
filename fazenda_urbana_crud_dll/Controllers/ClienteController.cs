@@ -11,7 +11,6 @@ namespace fazenda_urbana_crud_dll.Controllers
     public class ClienteController : IController
     {
         private readonly FazendaContext _context;
-
         public ClienteController()
         {
             _context = ContextBuilder.GetContext();
