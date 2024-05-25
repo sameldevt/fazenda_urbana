@@ -51,7 +51,12 @@ namespace fazenda_urbana_crud_dll.Controllers
                 return false;
             }
 
-            Console.WriteLine(clientes);
+            foreach(var c in clientes)
+            {
+                Console.WriteLine(c);
+                Console.WriteLine();
+            }
+            
             return true;
         }
 

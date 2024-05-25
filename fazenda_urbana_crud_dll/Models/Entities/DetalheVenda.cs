@@ -16,7 +16,7 @@ namespace fazenda_urbana_crud_dll.Models.Entities
 
         public override string ToString()
         {
-            return $"Id: {VendaID}\nId produto: {ProdutoID}\nQuantidade: {Quantidade}\nPreco unitário: {PrecoUnitario}\nProduto: {Produto}";
+            return $"Id: {VendaID}\nProdutoID: {ProdutoID}\nQuantidade: {Quantidade}\nPrecoUnitario: {PrecoUnitario}\nProduto: {Produto}";
         }
     }
 }

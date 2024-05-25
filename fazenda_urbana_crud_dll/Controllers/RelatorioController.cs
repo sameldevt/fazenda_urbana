@@ -52,7 +52,11 @@ namespace fazenda_urbana_crud_dll.Controllers
                 return false;
             }
 
-            Console.WriteLine(relatorios);
+            foreach(var r in relatorios)
+            {
+                Console.WriteLine(r);
+                Console.WriteLine();
+            }
             return true;
         }
 

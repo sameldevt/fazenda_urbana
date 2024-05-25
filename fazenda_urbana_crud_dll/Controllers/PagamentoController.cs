@@ -51,8 +51,11 @@ namespace fazenda_urbana_crud_dll.Controllers
                 Console.WriteLine("Nenhum registro encontrado");
                 return false;
             }
-
-            Console.WriteLine(pagamentos);
+            foreach(var p in pagamentos)
+            {
+                Console.WriteLine(p);
+                Console.WriteLine();
+            }
             return true;
         }
 

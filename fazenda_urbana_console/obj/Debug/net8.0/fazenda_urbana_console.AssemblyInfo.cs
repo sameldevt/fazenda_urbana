@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fazenda_urbana_console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+100fa7930442c4c2560d3545953b981c0fd8835c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f34351efee77519aa11a2229d510a3ede1d20fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("fazenda_urbana_console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fazenda_urbana_console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

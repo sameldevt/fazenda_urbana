@@ -16,7 +16,7 @@ namespace fazenda_urbana_crud_dll.Models.Entities
 
         public override string ToString()
         {
-            return $"Id: {PagamentoID}\nId da venda: {VendaID}\nData do pagamento: {DataPagamento}\nValor do pagamento: {ValorPagamento}\nMétodo de pagamento: {MetodoPagamento}\nVenda: {Venda}";
+            return $"Id: {PagamentoID}\nVendaID: {VendaID}\nDataPagamento: {DataPagamento}\nValorPagamento: {ValorPagamento}\nMetodoPagamento: {MetodoPagamento}\nVenda: {Venda}";
         }
     }
 }
