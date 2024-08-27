@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:sameldevt/fazenda_urbana_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:sameldevt/fazenda_urbana_frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:sameldevt/fazenda_urbana_mobile.git
