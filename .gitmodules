@@ -7,3 +7,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = git@github.com:sameldevt/fazenda_urbana_mobile.git
+[submodule "desktop"]
+	path = desktop
+	url = git@github.com:sameldevt/fazenda_urbana_desktop.git
